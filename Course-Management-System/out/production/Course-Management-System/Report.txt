@@ -1,0 +1,10 @@
+ ==========================================|Report Card|==============================================
+							
+Student Name: Jhon Cavill
+
+|Module Name| 				             |Semester 2nd|				            |Module Marks|
+Personal Development Skills		              C	                                       55
+Data Structures And Algorithm                 B                                        64 
+Inrtoduction to Database                      A                                        78   
+Web Technologies                              B                                        68
+Intorduction To Programming-I                 C                                        54                         										                                                               
